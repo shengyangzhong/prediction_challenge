@@ -11,10 +11,12 @@ Note: These times are in GMT.
 
 We can also tell you a rough location for each merchant, so feel free to use this data to include any additional information such as holidays, events, or weather.
 
+```
 Merchant A - California (Southern)
 Merchant B - Connecticut (Coastal)
 Merchant C - Florida (Central)
 Merchant D - Massachusetts (Southern) 
 Merchant E - Oregon (Northern)
+```
 
 To play: Fork our repo, and issue a pull request when you're ready to submit. Include a description of what your approach was, what exactly you estimated, and of course your code.
