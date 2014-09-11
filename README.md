@@ -1,7 +1,7 @@
 Clover Prediction Challenge
 ========================
 
-Winner gets a $1000 price. Solid entries get a priority interview at Clover. Details here: https://www.clover.com/challenge
+Winner gets a $1000 prize. Solid entries get a priority interview at Clover. Details here: https://www.clover.com/challenge
 
 We’re challenging you to help us predict how busy one of our merchants will be in 30 minutes, 3 hours, etc., in order to help them better anticipate things like wait times, stock counts, employee counts, opening hours and even eventually integrate this knowledge into systems like OpenTable or Yelp.
 
